@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color: white;
+}
+footer{
+    margin: auto;
+    display: block;
+}
+table{
+    width: 700px;
+    font-size:20px;
+    padding: 5px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+td{
+    padding-left: 5px;
+    align-items: center;
+}
+.wheel{
+    padding: 10px;
+    background-color: blue;
+
+    width: 700px;
+    border: 500px;
+    height: 400px;
+
+    display: block;
+    margin: auto;
+}
+a:link, a:visited {
+    display: inline-block;
+    text-align: center;
+    background-color: #0cc902;
+    color: white;
+    font-weight: 500;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    }
+
+a:hover, a:active {
+    background-color: rgb(0, 255, 30);
+    }
